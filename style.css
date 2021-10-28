@@ -16,6 +16,10 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    color:rgb(37, 88, 121);
+}
+
 p {
     line-height: 1.4 em;
 }
@@ -25,6 +29,10 @@ p {
 }
 
 #dog2 {
+    color:rgb(37, 88, 121);
+}
+
+#hello-features {
     color:rgb(37, 88, 121);
 }
 
